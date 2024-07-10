@@ -38,3 +38,7 @@ Para usar o sistema:
 ![Tela Criar Conta](screenshots/Tela_Criar_Conta.png)
 ![Tela Menu](screenshots/Menu.png)
 ![Tela Extrato](screenshots/Tela_Extrato.png)
+![Tela 1](screenshots/Tela1Att.png)
+![Tela Criar Conta](screenshots/CriarContaAtt.png)
+![Tela Menu](screenshots/MenuAtt.png)
+![Tela Extrato](screenshots/ExtratoAtt.png)
